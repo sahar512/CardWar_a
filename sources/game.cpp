@@ -4,7 +4,7 @@
 #include <iostream> 
 using namespace ariel; 
 
-Game::Game (Player p1 , Player p2 ) {}
+Game::Game (Player& player1 , Player& player2 ): p1(player1), p2(player2) {}
 
 //play one turn.
 void::Game::playTurn() {}
