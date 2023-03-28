@@ -25,3 +25,4 @@ void::Game::printLog(){}
 //win rate, cards won, <other stats you want to print>. 
 //Also print the draw rate and amount of draws that happand. 
 void::Game::printStats(){}
+
