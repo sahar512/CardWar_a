@@ -6,8 +6,7 @@ class Player {
     int stackSize; 
     int cardsTaken; 
     string name; 
-    Player(); 
-
+    
     Player(string name){
         this->stackSize=0; 
         this->cardsTaken=0; 
